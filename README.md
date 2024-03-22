@@ -6,7 +6,7 @@
 - Explain calling functions from within other functions
 - Practice basics of control flow and `return` statements
 
-## Introduction
+## Introductiond
 
 Scuber, our transportation company, has gained some traction among moms and dads
 in New York City. It has also received a few requests.
